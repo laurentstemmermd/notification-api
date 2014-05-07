@@ -1,0 +1,3 @@
+publish_key: '123456'
+subscribe_key: '456789'
+channel_prefix: 'mrdrive_'

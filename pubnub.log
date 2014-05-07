@@ -1,0 +1,499 @@
+# Logfile created on 2014-05-07 01:59:09 +0200 by logger.rb/41954
+D, [2014-05-07T01:59:09.214520 #7618] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T01:59:09.214665 #7618] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T01:59:09.214742 #7618] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T01:59:09.214782 #7618] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T01:59:09.214810 #7618] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T01:59:09.214907 #7618] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:00:09.519843 #7709] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:00:09.520023 #7709] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:00:09.520096 #7709] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:00:09.520136 #7709] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:00:09.520161 #7709] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:00:09.520260 #7709] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:00:24.784874 #7759] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:00:24.785060 #7759] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:00:24.785135 #7759] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:00:24.785173 #7759] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:00:24.785200 #7759] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:00:24.785295 #7759] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:01:18.039254 #7863] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:01:18.039435 #7863] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:01:18.039511 #7863] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:01:18.039550 #7863] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:01:18.039576 #7863] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:01:18.039681 #7863] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:01:45.236922 #7914] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:01:45.237103 #7914] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:01:45.237178 #7914] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:01:45.237218 #7914] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:01:45.237243 #7914] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:01:45.237339 #7914] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T02:01:45.237487 #7914] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Callback parameter is required while using async
+ERROR BACKTRACE: 
+D, [2014-05-07T02:02:29.208379 #7966] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:02:29.208562 #7966] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:02:29.208637 #7966] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:02:29.208674 #7966] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:02:29.208699 #7966] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:02:29.208796 #7966] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:02:29.209005 #7966] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:02:29.209445 #7966] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:02:29.209482 #7966] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:02:29.209525 #7966] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:02:29.209550 #7966] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:02:29.209575 #7966] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:07:48.876373 #8394] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:07:48.876533 #8394] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:07:48.876602 #8394] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:07:48.876638 #8394] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:07:48.876662 #8394] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:07:48.876762 #8394] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:07:48.876927 #8394] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:07:48.876962 #8394] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:07:48.876986 #8394] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:07:48.877008 #8394] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:07:48.877029 #8394] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:07:48.877051 #8394] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:08:45.216406 #8466] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:08:45.216569 #8466] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:08:45.216638 #8466] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:08:45.216674 #8466] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:08:45.216699 #8466] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:08:45.216794 #8466] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:08:45.216958 #8466] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:08:45.216995 #8466] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:08:45.217019 #8466] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:08:45.217041 #8466] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:08:45.217062 #8466] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:08:45.217084 #8466] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:09:55.224717 #8547] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:09:55.224879 #8547] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:09:55.224949 #8547] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:09:55.224984 #8547] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:09:55.225009 #8547] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:09:55.225098 #8547] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:09:55.225300 #8547] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:09:55.225338 #8547] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:09:55.225362 #8547] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:09:55.225384 #8547] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:09:55.225405 #8547] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:09:55.225428 #8547] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:09.539892 #8598] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:09.540054 #8598] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:09.540123 #8598] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:09.540176 #8598] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:09.540201 #8598] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:09.540292 #8598] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:09.540498 #8598] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:09.540539 #8598] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:09.540563 #8598] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:09.540585 #8598] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:09.540607 #8598] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:09.540633 #8598] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:20.195894 #8649] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:20.196053 #8649] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:20.196122 #8649] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:20.196158 #8649] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:20.196182 #8649] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:20.196271 #8649] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:20.196474 #8649] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:20.196510 #8649] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:20.196534 #8649] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:20.196556 #8649] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:20.196578 #8649] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:20.196600 #8649] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:25.367083 #8699] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:25.367244 #8699] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:25.367312 #8699] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:25.367348 #8699] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:25.367372 #8699] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:25.367464 #8699] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:25.367666 #8699] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:25.367701 #8699] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:25.367725 #8699] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:25.367747 #8699] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:25.367769 #8699] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:25.367792 #8699] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:32.642238 #8752] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:32.642396 #8752] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:32.642465 #8752] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:32.642501 #8752] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:32.642525 #8752] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:32.642612 #8752] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:32.642776 #8752] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:32.642811 #8752] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:32.642849 #8752] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:32.642872 #8752] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:32.642894 #8752] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:32.643333 #8752] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:39.037106 #8804] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:39.037262 #8804] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:39.037331 #8804] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:39.037366 #8804] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:39.037390 #8804] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:39.037486 #8804] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:39.037652 #8804] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:39.037689 #8804] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:39.037713 #8804] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:39.037736 #8804] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:39.037757 #8804] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:39.037780 #8804] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:10:57.527817 #8860] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:10:57.527977 #8860] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:10:57.528046 #8860] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:10:57.528081 #8860] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:10:57.528105 #8860] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:10:57.528194 #8860] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:10:57.528357 #8860] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:10:57.528393 #8860] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:10:57.528416 #8860] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:10:57.528439 #8860] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:10:57.528459 #8860] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:10:57.528481 #8860] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:11:44.867098 #8921] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:11:44.867259 #8921] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:11:44.867329 #8921] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:11:44.867365 #8921] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:11:44.867390 #8921] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:11:44.867481 #8921] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:11:44.867643 #8921] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:11:44.867681 #8921] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:11:44.867705 #8921] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:11:44.867727 #8921] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:11:44.867749 #8921] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:11:44.867771 #8921] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:00.803047 #8969] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:00.803222 #8969] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:00.803293 #8969] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:00.803330 #8969] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:00.803357 #8969] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:00.803448 #8969] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:00.803612 #8969] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:00.803648 #8969] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:00.803671 #8969] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:00.803693 #8969] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:00.803714 #8969] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:00.803735 #8969] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:07.709250 #9019] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:07.709412 #9019] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:07.709481 #9019] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:07.709516 #9019] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:07.709540 #9019] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:07.709634 #9019] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:07.709801 #9019] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:07.709836 #9019] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:07.709861 #9019] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:07.709883 #9019] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:07.709976 #9019] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:07.710387 #9019] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:11.725753 #9070] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:11.725928 #9070] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:11.725999 #9070] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:11.726036 #9070] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:11.726061 #9070] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:11.726153 #9070] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:11.726318 #9070] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:11.726355 #9070] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:11.726379 #9070] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:11.726401 #9070] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:11.726422 #9070] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:11.726444 #9070] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:31.957033 #9118] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:31.957340 #9118] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:31.957458 #9118] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:31.957538 #9118] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:31.957604 #9118] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:31.957748 #9118] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:31.957996 #9118] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:31.958075 #9118] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:31.958140 #9118] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:31.958204 #9118] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:31.958268 #9118] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:31.958332 #9118] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:34.347674 #9166] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:34.347833 #9166] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:34.347902 #9166] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:34.347938 #9166] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:34.347962 #9166] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:34.348055 #9166] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:34.348219 #9166] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:34.348254 #9166] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:34.348279 #9166] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:34.348301 #9166] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:34.348322 #9166] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:34.348344 #9166] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:12:35.989127 #9214] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:12:35.989286 #9214] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:12:35.989357 #9214] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:12:35.989392 #9214] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:12:35.989417 #9214] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:12:35.989509 #9214] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T02:12:35.989673 #9214] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T02:12:35.989709 #9214] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T02:12:35.989733 #9214] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T02:12:35.989755 #9214] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T02:12:35.989775 #9214] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T02:12:35.989796 #9214] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T02:13:01.467704 #9263] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T02:13:01.467867 #9263] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T02:13:01.467940 #9263] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T02:13:01.467976 #9263] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T02:13:01.468001 #9263] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T02:13:01.468097 #9263] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T02:13:01.468202 #9263] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:04:14.842329 #10953] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:04:14.842489 #10953] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:04:14.842558 #10953] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:04:14.842594 #10953] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:04:14.842637 #10953] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:04:14.842728 #10953] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:04:14.842881 #10953] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:05:34.415242 #11006] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:05:34.415410 #11006] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:05:34.415478 #11006] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:05:34.415513 #11006] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:05:34.415537 #11006] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:05:34.415630 #11006] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:05:34.415733 #11006] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:05:37.894527 #11056] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:05:37.894683 #11056] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:05:37.894754 #11056] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:05:37.894789 #11056] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:05:37.894815 #11056] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:05:37.894904 #11056] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:05:37.895008 #11056] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:05:48.662423 #11106] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:05:48.662583 #11106] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:05:48.662652 #11106] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:05:48.662688 #11106] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:05:48.662713 #11106] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:05:48.662805 #11106] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:05:48.662908 #11106] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:05:54.551209 #11156] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:05:54.551368 #11156] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:05:54.551437 #11156] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:05:54.551473 #11156] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:05:54.551497 #11156] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:05:54.551588 #11156] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:05:54.551691 #11156] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:51:10.890569 #14911] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:51:10.890876 #14911] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:51:10.890995 #14911] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:51:10.891075 #14911] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:51:10.891143 #14911] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:51:10.891275 #14911] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+E, [2014-05-07T07:51:10.891429 #14911] ERROR -- Pubnub: ERROR TYPE: Pubnub::ArgumentError
+ERROR MESSAGE: Publish requires :message argument
+ERROR BACKTRACE: 
+D, [2014-05-07T07:52:28.013023 #15046] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:52:28.013185 #15046] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:52:28.013255 #15046] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:52:28.013290 #15046] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:52:28.013316 #15046] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:52:28.013406 #15046] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:52:28.013568 #15046] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:52:28.013604 #15046] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:52:28.013628 #15046] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:52:28.013649 #15046] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:52:28.013670 #15046] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:52:28.013691 #15046] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:52:30.799415 #15094] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:52:30.799572 #15094] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:52:30.799642 #15094] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:52:30.799677 #15094] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:52:30.799705 #15094] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:52:30.799794 #15094] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:52:30.799960 #15094] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:52:30.799997 #15094] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:52:30.800022 #15094] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:52:30.800044 #15094] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:52:30.800065 #15094] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:52:30.800087 #15094] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:52:32.444763 #15143] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:52:32.444921 #15143] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:52:32.444992 #15143] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:52:32.445027 #15143] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:52:32.445052 #15143] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:52:32.445146 #15143] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:52:32.445309 #15143] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:52:32.445344 #15143] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:52:32.445368 #15143] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:52:32.445389 #15143] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:52:32.445410 #15143] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:52:32.445432 #15143] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:54:41.997575 #15238] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:54:41.997739 #15238] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:54:41.997809 #15238] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:54:41.997845 #15238] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:54:41.997886 #15238] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:54:41.997996 #15238] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:54:41.998162 #15238] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:54:41.998200 #15238] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:54:41.998224 #15238] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:54:41.998247 #15238] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:54:41.998268 #15238] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:54:41.998290 #15238] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:54:45.484390 #15286] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:54:45.484548 #15286] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:54:45.484618 #15286] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:54:45.484654 #15286] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:54:45.484681 #15286] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:54:45.484774 #15286] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:54:45.484939 #15286] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:54:45.484976 #15286] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:54:45.485000 #15286] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:54:45.485022 #15286] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:54:45.485042 #15286] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:54:45.485063 #15286] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:54:55.201120 #15336] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:54:55.201281 #15336] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:54:55.201352 #15336] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:54:55.201389 #15336] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:54:55.201413 #15336] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:54:55.201505 #15336] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:54:55.201665 #15336] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:54:55.201702 #15336] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:54:55.201726 #15336] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:54:55.201747 #15336] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:54:55.201768 #15336] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:54:55.201790 #15336] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:55:52.011486 #15402] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:55:52.011633 #15402] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:55:52.011704 #15402] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:55:52.011739 #15402] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:55:52.011764 #15402] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:55:52.011856 #15402] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:55:52.012019 #15402] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:55:52.012056 #15402] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:55:52.012079 #15402] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:55:52.012119 #15402] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:55:52.012141 #15402] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:55:52.012163 #15402] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:55:56.672057 #15450] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:55:56.672203 #15450] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:55:56.672273 #15450] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:55:56.672308 #15450] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:55:56.672333 #15450] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:55:56.672428 #15450] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:55:56.672641 #15450] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:55:56.673111 #15450] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:55:56.673149 #15450] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:55:56.673174 #15450] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:55:56.673196 #15450] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:55:56.673222 #15450] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:55:57.821571 #15498] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:55:57.821719 #15498] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:55:57.821796 #15498] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:55:57.821833 #15498] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:55:57.821858 #15498] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:55:57.821973 #15498] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:55:57.822139 #15498] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:55:57.822178 #15498] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:55:57.822203 #15498] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:55:57.822225 #15498] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:55:57.822247 #15498] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:55:57.822269 #15498] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun
+D, [2014-05-07T07:55:58.946508 #15546] DEBUG -- Pubnub: Symbolizing options keys
+D, [2014-05-07T07:55:58.946655 #15546] DEBUG -- Pubnub: Setting default values
+D, [2014-05-07T07:55:58.946724 #15546] DEBUG -- Pubnub: 
+
+Created new Pubnub::Client instance
+D, [2014-05-07T07:55:58.946760 #15546] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | starting EM in new thread
+D, [2014-05-07T07:55:58.946784 #15546] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | We aren't running on thin
+D, [2014-05-07T07:55:58.946874 #15546] DEBUG -- Pubnub: Pubnub::Client#start_event_machine | EM started in new thread
+D, [2014-05-07T07:55:58.947042 #15546] DEBUG -- Pubnub: Event#initialize | Initialized Pubnub::Publish
+D, [2014-05-07T07:55:58.947078 #15546] DEBUG -- Pubnub: Created event Pubnub::Publish
+D, [2014-05-07T07:55:58.947101 #15546] DEBUG -- Pubnub: Pubnub::SingleEvent#fire
+D, [2014-05-07T07:55:58.947124 #15546] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Adding event to async_events
+D, [2014-05-07T07:55:58.947144 #15546] DEBUG -- Pubnub: Pubnub::SingleEvent#fire | Starting railgun
+D, [2014-05-07T07:55:58.947166 #15546] DEBUG -- Pubnub: Pubnub::Client#start_railgun | Initializing railgun

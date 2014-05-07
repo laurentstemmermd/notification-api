@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__) + '/../lib'))
+$LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__) + '/../bin'))
+
+require 'mrdrive_notification_api'
+require 'lib/command'
+
+cmd = ARGV.shift
+if Command.respond_to? cmd
+	Command.send(cmd, ARGV)
+else
+	Command.help
+end

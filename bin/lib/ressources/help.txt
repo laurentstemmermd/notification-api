@@ -1,0 +1,8 @@
+Usage : product-api command [options]
+
+Available commands :
+	- notify_user
+	- version
+	- help
+
+For more information about a command run with option -h
