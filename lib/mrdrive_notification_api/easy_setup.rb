@@ -21,11 +21,19 @@ class EasySetup
 			WrongConfigException.missing_config(:publish_key)
 		end
 
-		puts "#{publish_key} et #{subscribe_key}"
+		stdout_logger = Logger.new(STDOUT)
 		pubnub = Pubnub.new(
 			:publish_key   => publish_key,
-			:subscribe_key => subscribe_key
+			:subscribe_key => subscribe_key,
+			:error_callback   => lambda { |msg|
+			puts "Error callback says: #{msg.inspect}"
+			},
+			:connect_callback => lambda { |msg|
+			puts "CONNECTED: #{msg.inspect}"
+			},
+			:logger => stdout_logger
 		)
+
 
 		NotificationService.instance.pubnub = pubnub
 		NotificationService.instance.channel_prefix = channel_prefix
